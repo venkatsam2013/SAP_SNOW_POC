@@ -1,0 +1,131 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.App {
+  text-align: center;
+}
+
+.left-conatiner {
+  /* Layout Properties */
+  top: 0px;
+  left: -8px;
+  /* UI Properties */
+  background: #F8F8F8 0% 0% no-repeat padding-box;
+  opacity: 1;
+  height: 100vh;
+}
+
+.no-right-pd{
+  padding-right: 0!important;
+}
+
+.no-left-pd{
+  padding-left: 0!important;
+}
+
+.app-header {
+  /* Layout Properties */
+  top: 0px;
+  height: 81px;
+  /* UI Properties */
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding: 30px;
+}
+
+.logo-text {
+  font: normal normal bold 23px/28px Basic Sans;
+  letter-spacing: 0px;
+  color: #5571DB;
+  opacity: 1;
+}
+
+.data-table-body{
+  background: #F8F8F8 0% 0% no-repeat padding-box;
+  opacity: 1;
+  height: 89vh;
+  padding-left: 0!important;
+  padding-top:80px;
+ 
+}
+
+.data-table-container{
+  border:1px solid black;
+}
+
+.list-body{
+  margin-left: 10px;
+}
+.list-body-inner{
+  max-height: 500px;
+  background-color: #FFFFFF;
+  height: 500px;
+  text-align: left;
+  padding: 10px;
+}
+.list-header{
+  background: #5571DB 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: left;
+  font: normal normal normal 21px/25px Basic Sans;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+.arrow-data-table{
+  margin-top: 250px;
+  height: 50px;
+  width: 50px;
+  background-color: #5571DB;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.view{
+  margin-top: 200px;
+  padding: 25px;
+  text-align: left;
+}
+.text-left-viewitem{
+  text-align: left;
+  padding-left: 20px;
+}
+.arrow-image{
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.view-text{
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.datatable-checkbox{
+  margin-left: 10px;
+  left: 10px;
+}
+.modal-content{
+  margin-top: 50%;
+}
+.text-center{
+  text-align: center;
+}
+.float-left{
+  text-align: left;
+  position: absolute;
+  top: 100px;
+  color: #4A6BE6;
+  font-size: smaller;
+}
+.float-right{
+  text-align: right;
+  position: absolute;
+  top: 100px;
+  color: #4A6BE6;
+  font-size: smaller;
+}
+
+.selected{
+  font-weight: bolder;
+    text-decoration: underline;
+}

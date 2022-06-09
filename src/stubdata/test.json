@@ -1,0 +1,58 @@
+{
+    "view":[
+        {
+            "name": "test1",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "test2",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "test3",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "test4",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "test5",
+            "id": 1,
+            "checked": false
+        }
+
+    ],
+    "table":[
+        {
+            "name": "table1",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "table2",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "table3",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "table4",
+            "id": 1,
+            "checked": false
+        },
+        {
+            "name": "table5",
+            "id": 1,
+            "checked": false
+        }
+    ]
+
+}
